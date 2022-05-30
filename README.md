@@ -1,2 +1,2 @@
 # LDA_from_scratch
-We implement the Latent Dirichlet allocation(LDA) from scratch using python, and compare our implement with off the shelf ldamodel in gensim package
+We implement the Latent Dirichlet Allocation(LDA) from scratch using python, and compare our implementment with off the shelf ldamodel in gensim package.
